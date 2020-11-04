@@ -1,11 +1,7 @@
 {
-<<<<<<< HEAD
-  "name": "employee-tracker",
-=======
-  "name": "Employee-Management-System",
->>>>>>> 39cb8c2ce50d05f74099d021577689e3bd215ebb
+  "name": "employee-management-system",
   "version": "1.0.0",
-  "description": "Lesson 12 Weekly Challenge | SQL",
+  "description": "new homework",
   "main": "main.js",
   "dependencies": {
     "console.table": "^0.10.0",
@@ -18,27 +14,13 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": "git+https://github.com/tbrichet/employee-tracker.git"
-=======
-    "url": ""
->>>>>>> 39cb8c2ce50d05f74099d021577689e3bd215ebb
+    "url": "git+https://github.com/Mohammed-19992/Employee-Management-System.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-<<<<<<< HEAD
-    "url": "https://github.com/tbrichet/employee-tracker/issues"
+    "url": "https://github.com/Mohammed-19992/Employee-Management-System/issues"
   },
-  "homepage": "https://github.com/tbrichet/employee-tracker#readme"
-=======
-    "url": ""
-  },
-  "homepage": "",
-  "dependencies": {
-    "inquirer": "^7.1.0",
-    "mysql": "^2.18.1"
-  }
->>>>>>> 39cb8c2ce50d05f74099d021577689e3bd215ebb
+  "homepage": "https://github.com/Mohammed-19992/Employee-Management-System#readme"
 }

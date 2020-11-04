@@ -163,7 +163,7 @@ function updateRoles() {
       // Update employee record
       var newRoleId = choice.newRoleId;
       var request = "UPDATE employee SET role_id=? WHERE id=?";
-      connection.query(request, [newRoleId, employeeId], function(err, response) {
+      connection.query(request, [newRoleId, employeeId], function(error, response) {
         if(error) throw error;
         console.table(response);
         mainMenu();
