@@ -8,9 +8,8 @@ This app is built with a code using node, inquirer, and MySQL, and it allows bus
 
 
 ## Review
-*The URL of a video describing the functionality of the project: https://www.youtube.com/watch?v=fFJbEiLbV18&feature=youtu.be
-*The URL of the GitHub repository: 
-
+* The URL of a video describing the functionality of the project: https://www.youtube.com/watch?v=fFJbEiLbV18&feature=youtu.be
+* The URL of the GitHub repository: https://github.com/Mohammed-19992/Employee-Management-System
 ## License used 
 
 ISC License
