@@ -4,8 +4,8 @@ Employee Management System
 ## Overview & Technologies Used:
 This app is built with a code using node, inquirer, and MySQL, and it allows business owners to view and manage the departments, roles, and employees in thier businesses so they can organize and plan them.
 
-## screenshot of the project:
-
+## Screenshot of the project:
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67847324/98183869-155ab480-1ed7-11eb-996d-7ff240dfb024.gif)
 
 ## Review
 * The URL of a video describing the functionality of the project: https://www.youtube.com/watch?v=fFJbEiLbV18&feature=youtu.be
